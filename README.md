@@ -1,4 +1,4 @@
-Storecoin Core integration/staging tree
+Storecoin Core integration/staging tree.
 =====================================
 
 http://www.storecoin.org
